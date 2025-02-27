@@ -1,4 +1,4 @@
-# 🏒 UnCalledFour: Analyzing What Makes a Great Hockey Player
+# 🏒 Analyzing What Makes a Great Hockey Player
 
 ## 📖 Project Overview
 This project aims to analyze **National Hockey League (NHL) player and team performance** over 19 years (2000-2019) using game statistics, player details, and spatial data. Our goal is to uncover **key factors contributing to success in ice hockey**, from player attributes to team strategies.
